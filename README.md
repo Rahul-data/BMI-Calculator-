@@ -1,2 +1,2 @@
 # BMI-Calculator-
-This is just an trial of BMI calculator app deployement on Guthub from streamlit
+This is just a trial of BMI calculator app deployement on Guthub from streamlit
